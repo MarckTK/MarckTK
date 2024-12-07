@@ -49,7 +49,7 @@ My name is Marco but you can call me Mark
     <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
     <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
     <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind" />
-  <br>
+  <br><br/>
    
 </p>
  <hr>
