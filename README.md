@@ -68,12 +68,22 @@ My name is Marco but you can call me Mark
 
 
 <br><br>
-<div align ="center">
-  <a href="https://www.linkedin.com/in/perezmarco06/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://discord.gg/#marcktk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/fecr42559d1acq338mkoix998" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  <a href="https://steamcommunity.com/id/MarckTK/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-  <a href="https://www.instagram.com/m4rcktk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/perezmarco06/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
+  <a href="https://discord.gg/#marcktk" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <a href="https://open.spotify.com/user/fecr42559d1acq338mkoix998" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+  </a>
+  <a href="https://steamcommunity.com/id/MarckTK/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/m4rcktk/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
 <br>
 
